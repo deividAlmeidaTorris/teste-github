@@ -1,10 +1,17 @@
-h2{
+h2 {
     color: brown;
     font-size: 5rem;
 }
-section h3{
+
+section h3 {
     background: gray;
 }
-p{
+
+p {
     color: blue;
+}
+
+button {
+    background-color: blue;
+    color: antiquewhite;
 }
